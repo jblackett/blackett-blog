@@ -89,6 +89,7 @@ sftp-config.json
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 sites/*/*services*.yml
+sites/default/default.services.yml
 
 # Ignore paths that contain generated content.
 files/
@@ -123,4 +124,3 @@ sites/all/themes/README.txt
 #/profiles
 #/scripts
 #/themes
-
